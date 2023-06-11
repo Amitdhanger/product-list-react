@@ -1,0 +1,57 @@
+.productlist{
+    width:31%;
+    float:left;
+    margin-left: 20px;
+    margin-top: 10px;
+    color:black;
+    background-color: #fff;
+}
+
+.productlist:hover{
+    border:2px solid bisque;
+    z-index:1;
+    color:red;
+}
+   
+   
+    
+    
+   
+
+
+.image{
+    width:100%;
+    float:left;
+    img{
+        width:100%;
+        
+    }
+
+}
+
+.name{
+    width:100%;
+    padding: 10px 0px 20px 10px;
+  
+    font-size: 28px;
+    font-weight: 700;
+}
+
+
+
+.cost{
+    width:100%;
+    padding: 10px 0px 0px 10px;
+   
+    font-size:16px;
+    font-weight: 400;
+}
+
+.breadcromb{
+    text-align: center;
+    width:100%;
+    color:bisque;
+    margin:30px 0px 10px 0px;
+   
+   
+}
